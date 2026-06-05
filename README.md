@@ -128,3 +128,4 @@ I'm a CS engineer who likes taking an idea all the way to a deployed, working sy
 **Open to backend, full-stack, cloud, and AI/ML roles — let's build something.**
 
 </div>
+
