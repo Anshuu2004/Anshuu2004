@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Abhishek Choudhary 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,100:7AA2F7&height=200&section=header&text=Abhishek%20Choudhary&fontSize=50&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" alt="Abhishek Choudhary" width="100%" />
 
 ### Full-Stack & AI Engineer — I take ideas all the way to deployed, working products
 
@@ -119,5 +119,7 @@ I'm a CS engineer who likes taking an idea all the way to a deployed, working sy
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekcse2004@gmail.com)
 
 ⭐️ [github.com/Anshuu2004](https://github.com/Anshuu2004)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:1A1B27&height=120&section=footer" width="100%" />
 
 </div>
