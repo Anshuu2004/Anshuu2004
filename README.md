@@ -75,12 +75,52 @@ I'm a CS engineer who likes taking an idea all the way to a deployed, working sy
 
 ## 🚀 Featured Projects
 
-| Project | What it does | Tech | Links |
-|---|---|---|---|
-| **🩺 CodeHeal V2** | Autonomous CI/CD agent that scans a GitHub repo, detects bugs, fixes them, and **opens a PR on its own** — verified through a cascading **6-model AI pipeline** (Gemini 2.5, Llama, Kimi K2, DeepSeek R1) with live progress over SSE. Tokens encrypted with AES-256-GCM. | `React 19` `Node/Express` `TypeScript` `GitHub OAuth` `Multi-LLM` | [Code](https://github.com/Anshuu2004/codeheal-v2) · [**▶ Live**](https://codeheal.onrender.com) |
-| **🚗 DriveAware** | Real-time driver **drowsiness & distraction detection on a plain laptop CPU** — no GPU, no cloud. Four chained OpenVINO models + a 30s rolling PERCLOS scorer, sustaining **25–30 FPS** with a model bundle **under 8 MB**. | `Python` `OpenVINO` `OpenCV` `Computer Vision` | [Code](https://github.com/Anshuu2004/DriveAware) |
-| **💸 BroSplit** | Mobile-first **expense splitter** (groups, multi-currency, debt simplification) with **integer-exact money math**, Postgres **Row-Level Security** as the source of truth, and unit-tested split algorithms. | `Next.js 15` `TypeScript` `Supabase` `Tailwind` `Vitest` | [Code](https://github.com/Anshuu2004/BroSplit) · [**▶ Live**](https://bro-split-two.vercel.app) |
-| **📝 AI Question Paper Generator** | Flask app that generates **board-aligned exam papers** (CBSE/ICSE/State) via Google Gemini + a curated question bank, with a **4-tier AI fallback** and one-click **PDF / Word / answer-key** export in **English & Hindi**. | `Flask` `Python` `Gemini` `MySQL` `Docker` | [Code](https://github.com/Anshuu2004/Ai_Intelligent_Paper_Generator) · [**▶ Live**](https://api.simption.com/Ai_Intelligent_Paper_Generator/) |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+#### 🩺 CodeHeal V2
+An autonomous CI/CD agent that scans a repo, fixes bugs through a **6-model AI pipeline**, and **opens the PR itself** — live SSE progress, tokens encrypted with AES-256-GCM.
+
+`React 19` · `Node` · `TypeScript` · `Multi-LLM`
+
+[**Code**](https://github.com/Anshuu2004/codeheal-v2) · [**▶ Live**](https://codeheal.onrender.com)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🚗 DriveAware
+Real-time driver **drowsiness & distraction detection on a plain CPU** — four chained OpenVINO models + a 30s PERCLOS scorer. **25–30 FPS**, **under 8 MB**, fully offline.
+
+`Python` · `OpenVINO` · `OpenCV`
+
+[**Code**](https://github.com/Anshuu2004/DriveAware)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 💸 BroSplit
+Mobile-first **expense splitter** — multi-currency, **integer-exact money math**, Postgres **Row-Level Security**, and unit-tested split algorithms.
+
+`Next.js 15` · `Supabase` · `TypeScript` · `Vitest`
+
+[**Code**](https://github.com/Anshuu2004/BroSplit) · [**▶ Live**](https://bro-split-two.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+#### 📝 AI Question Paper Generator
+Generates **board-aligned exam papers** (CBSE/ICSE/State) via Gemini + a curated question bank — 4-tier AI fallback, one-click **PDF/Word**, in **English & Hindi**.
+
+`Flask` · `Gemini` · `MySQL` · `Docker`
+
+[**Code**](https://github.com/Anshuu2004/Ai_Intelligent_Paper_Generator) · [**▶ Live**](https://api.simption.com/Ai_Intelligent_Paper_Generator/)
+
+</td>
+</tr>
+</table>
 
 ---
 
