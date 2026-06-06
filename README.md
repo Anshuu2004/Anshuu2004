@@ -6,10 +6,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=720&lines=Full-Stack+%26+AI+Engineer;Autonomous+AI+agents+%2B+real%2C+shipped+products;Backend+%E2%80%A2+Cloud+%E2%80%A2+Computer+Vision)](https://git.io/typing-svg)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white)](https://abhishek-portfolio-liard-two.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekcse2004)
 [![Email](https://img.shields.io/badge/Email-Reach%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekcse2004@gmail.com)
 <!-- 🔗 Send me these and I'll switch them on:
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white)](PORTFOLIO_URL)
+(Portfolio is now live above ✓)
 [![Resume](https://img.shields.io/badge/Resume-View-2EA44F?style=for-the-badge&logo=readthedocs&logoColor=white)](RESUME_URL)
 -->
 
@@ -121,6 +122,7 @@ I'm a CS engineer who likes taking an idea all the way to a deployed, working sy
 
 **Actively looking for Backend · Full-Stack · Cloud · AI/ML roles — let's talk.**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white)](https://abhishek-portfolio-liard-two.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekcse2004)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekcse2004@gmail.com)
 
