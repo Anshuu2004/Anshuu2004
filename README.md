@@ -105,6 +105,12 @@ I'm a CS engineer who likes taking an idea all the way to a deployed, working sy
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshuu2004&theme=tokyo-night&hide_border=true&area=true" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anshuu2004/Anshuu2004/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anshuu2004/Anshuu2004/output/github-snake.svg" />
+  <img alt="Snake eating my GitHub contributions" src="https://raw.githubusercontent.com/Anshuu2004/Anshuu2004/output/github-snake.svg" />
+</picture>
+
 </div>
 
 ---
